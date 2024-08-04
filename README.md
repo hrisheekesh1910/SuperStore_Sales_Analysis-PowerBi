@@ -1,5 +1,9 @@
 ## SuperStore Sales Analysis
 
+### Objective:
+
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
 ### Key Components of the Power BI Dashboard:
 
 1. **Sales by Region:**
@@ -38,6 +42,4 @@
    - Analyze sales performance across broad product categories like Furniture, Office Supplies, and Technology.
    - Understand the contribution of each category to total sales.
 
-### Objective:
 
-The Power BI dashboard aims to provide actionable insights to stakeholders, helping them make data-driven decisions to optimize sales strategies, improve customer satisfaction, and increase overall profitability. By visualizing the data effectively, the dashboard allows for easy identification of trends, opportunities, and areas that need attention.
